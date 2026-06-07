@@ -1,4 +1,3 @@
-Exercicios em JavaScript
-Este projeto contem exercicios feitos usando apenas JavaScript.
+# Aprendizado em JavaScript
 
-Os codigos foram desenvolvidos para praticar logica de programacao, estruturas condicionais, calculos simples e uso de switch case.
+Este repositório contém exercícios desenvolvidos durante o curso Full Stack Jr. (+praTi & Codifica) enquanto aprendo JavaScript.
